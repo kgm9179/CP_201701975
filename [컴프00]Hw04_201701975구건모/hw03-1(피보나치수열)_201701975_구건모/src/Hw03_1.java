@@ -1,7 +1,7 @@
 
 public class Hw03_1 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { //commit
 		int n1 = 0;
 		int n2 = 1;
 		int n3;
