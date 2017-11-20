@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class hw02_1 {
 
 	public static void main(String[] args) {
-		System.out.println("201701975학번 구건모. Hw02_1: 가위바위보게임 과제");
+		System.out.println("201701975학번 구건모. Hw02_1: 가위바위보게임 과제"); // commit
 		Scanner input = new Scanner(System.in);
 		String user;
 		int com;
