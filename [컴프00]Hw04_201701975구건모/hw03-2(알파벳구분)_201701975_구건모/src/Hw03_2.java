@@ -4,6 +4,7 @@ public class Hw03_2 {
 		System.out.println("컴퓨터 공학과 201701975학번 구건모");
 		Scanner input = new Scanner(System.in);
 		String s;
+		int git;
 		System.out.print("알파벳을 입력하세요:    ");
 		s = input.next().toLowerCase();
 		switch (s) {
@@ -17,6 +18,7 @@ public class Hw03_2 {
 		default:
 			System.out.print("자음입니다.");
 			break;
+			
 		}
 		input.close();
 	}
