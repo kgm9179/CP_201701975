@@ -6,6 +6,7 @@ public class hw5_1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		int git;
 		int a = 0, b = 0;
 		char[] arr = new char[100];
 		System.out.println("영어 문자열을 입력하세요.");
