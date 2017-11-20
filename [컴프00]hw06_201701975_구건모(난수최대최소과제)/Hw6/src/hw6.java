@@ -8,7 +8,7 @@ public class hw6 {
 				}
 			// 난수발생
 System.out.println("--- 난수 10개 출력 ---");
-
+int git;
 int max= random[0];
 int mim= random[0];
 //최대 최소 판단
