@@ -4,7 +4,7 @@ package hw2;
 import java.util.Scanner;
 
 public class HW01_2 {
-
+int update1;
 	public static void main(String[] args) {
 int a;
 Scanner k = new Scanner(System.in);
