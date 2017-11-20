@@ -4,7 +4,7 @@ public class hw7 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-
+int git;
 		Bankaccount a = new Bankaccount();
 		Bankaccount b = new Bankaccount();
 		System.out.println("계좌 1번 정보 입력");
